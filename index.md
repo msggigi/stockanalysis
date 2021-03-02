@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages site of msggigi's stock analysis
+
+UNDER CONSTRUCTION!
+
+[Dax Stock Analysis with machine learning](bokeh_plot.png)
 
 You can use the [editor on GitHub](https://github.com/msggigi/stockanalysis/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
