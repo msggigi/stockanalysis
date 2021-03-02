@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: "Stock Analysis"
+description: "This will give buy and sell recommendations based on machine learning and personal preferences."
+logo: bokeh_plot.png
+show_downloads: "true"
